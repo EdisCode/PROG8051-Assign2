@@ -49,7 +49,7 @@ The game is implemented in C# and consists of the following classes:
 
 ## Video Link
 
-Follow this [Link]() to watch the implementation video.
+Follow this [Link](https://www.loom.com/share/3e9f5575c3eb47cdb090e490cb049502?sid=ad2fedd5-50cb-44d3-a177-a371b67bdb7b) to watch the implementation video.
 
 Enjoy the hunt! 🎊
 And remember finders keepers. 😉
