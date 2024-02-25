@@ -94,9 +94,9 @@ namespace Assignment2
             Grid[0, 0].Occupant = "P1";
             Grid[5, 5].Occupant = "P2";
 
-            // Place gems (for simplicity, randomly place 5 gems)
+            // Place gems (for simplicity, randomly place 6 gems)
             Random random = new Random();
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 6; i++)
             {
                 int x = random.Next(0, 6);
                 int y = random.Next(0, 6);

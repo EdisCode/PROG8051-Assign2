@@ -35,7 +35,7 @@ The objective of the game is to collect as many gems as possible within 30 moves
 4. **Follow On-screen Instructions:**
     - Input your moves (U for up, D for down, L for left, R for right).
     - Collect gems while avoiding obstacles.
-    - The game ends after 30 moves, and the player with the most gems wins.
+    - The game ends after 30 moves or when all gems are collected, and the player with the most gems wins.
 
 ## Implementation Details
 
@@ -53,4 +53,3 @@ Follow this [Link]() to watch the implementation video.
 
 Enjoy the hunt! 🎊
 And remember finders keepers. 😉
-
